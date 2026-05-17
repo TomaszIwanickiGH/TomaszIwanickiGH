@@ -1,11 +1,11 @@
-# Hi there, I'm Tomasz! 👋
+# Hi there, I'm Tomasz! 
 
-### 🚀 Aspiring DevOps & AIOps Engineer
+### Aspiring DevOps & AIOps Engineer
 I am a Computer Science student at the University of Rzeszów, highly focused on infrastructure automation, containerization, and integrating Large Language Models (LLMs) into modern IT operations.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 * **Languages:** Python (Automation & Scripting), Bash, SQL, Java / Kotlin
 * **DevOps & Cloud:** Docker & Docker Compose, Git, Terraform (Basics), GitHub Actions
@@ -14,7 +14,7 @@ I am a Computer Science student at the University of Rzeszów, highly focused on
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
 * **[AI-Powered Log Diagnostic Tool](https://github.com/TomaszIwanickiGH/ai-log-diagnostic-tool)** *A modern automation tool leveraging Local LLMs (Llama 3) via Docker to analyze server logs and troubleshoot Oracle Database errors.*
 
@@ -22,5 +22,5 @@ I am a Computer Science student at the University of Rzeszów, highly focused on
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 **[Email](tomasz.iwanicki@onet.pl)**
